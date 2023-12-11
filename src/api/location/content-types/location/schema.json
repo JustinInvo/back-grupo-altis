@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "locations",
+  "info": {
+    "singularName": "location",
+    "pluralName": "locations",
+    "displayName": "location",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "TITULO": {
+      "type": "string"
+    },
+    "TIPO": {
+      "type": "string"
+    },
+    "UBICACION": {
+      "type": "string"
+    },
+    "AREA": {
+      "type": "string"
+    },
+    "M2": {
+      "type": "string"
+    },
+    "DETALLE": {
+      "type": "string"
+    },
+    "CONTACTO": {
+      "type": "string"
+    },
+    "VALOR": {
+      "type": "string"
+    }
+  }
+}
